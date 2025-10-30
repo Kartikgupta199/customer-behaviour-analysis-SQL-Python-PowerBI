@@ -31,7 +31,7 @@ The project uncovers actionable insights that help improve customer retention, o
 The dashboard provides a snapshot of key business metrics such as total revenue, average purchase value, and customer satisfaction.
 Visual filters for Subscription Status, Gender, and Product Category allow easy exploration.
 
-** 📷 Dashboard Screenshot:**
+**📷 Dashboard Screenshot:**
 ![customer_behaviour_dashboard_img](https://github.com/user-attachments/assets/385a21fc-eeef-47eb-a2b9-be83c4566152)
 
 
@@ -69,7 +69,7 @@ Visual filters for Subscription Status, Gender, and Product Category allow easy 
 
 ## 👤 Author
 
-Kartik Gupta
-🎯 Aspiring Data Analyst | Skilled in SQL, Python, Power BI & Excel
-📩 Email: kartik.gupta709@gmail.com
-🔗 LinkedIn: linkedin.com/in/kartikgupta199
+- Kartik Gupta
+- 🎯 Aspiring Data Analyst | Skilled in SQL, Python, Power BI & Excel
+- 📩 Email: kartik.gupta709@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/kartikgupta199
