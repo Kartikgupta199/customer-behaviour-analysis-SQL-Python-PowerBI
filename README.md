@@ -1,4 +1,4 @@
-# 🧩 Customer Behavior Dashboard (Power BI)
+# 🧩 Customer Behavior Dashboard (SQL-Python-PowerBI)
 
 ## 📖 Project Overview
 
